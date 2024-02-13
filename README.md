@@ -4,3 +4,4 @@
 
 Para ejecutar la app debes pone
 ``` npm install react ``` 
+Sistema de registro 2
